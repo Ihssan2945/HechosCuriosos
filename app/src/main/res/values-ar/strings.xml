@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">غرائب</string>
+    <string name="hello_world">هل تعرف ان</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="array">
+        <item>النمل تمتد عندما يستيقظون في الصباح. </item>
+        <item>النعام ممكن ان تكون اسرع من الخيل </item>
+    <item>االميداليلت الذهبية في الالعاب الاوليمبية مصنوعة من فضة</item>
+        <item>كنت قد ولدت مع 300 عظام ولكن عند سن اللوغ سيكون لك 206</item>
+        <item>يمكن لبعض نباتات الخيزران ن تنمو لتصل إلى متر واحد في
+اليوم</item>
+        <item>ولاية فلوريدا أكبر من انجلترا.</item>
+
+    </string-array>
+
+
+
+<string-array name="colors">
+    <item>#39add1</item>
+    <item>#3079ab</item>
+    <item>#7d669e</item>
+    <item>#f092b0</item>
+    <item>#c25975</item>
+    <item>#e15258</item>
+    <item>#f9845b</item>
+    <item>#e0ab18</item>
+    <item>#51b46d</item>
+
+
+
+</string-array>
+
+
+</resources>

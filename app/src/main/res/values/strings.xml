@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hechos Curiosos</string>
+    <string name="hello_world">¿Sabías qué?</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="array">
+    <item>Las hormigas se estiran cuando se despiertan por la mañana. </item>
+    <item>Las avestruces pueden correr más rápido que los caballos. </item>
+    <item>Las medallas de oro de los juegos olímpicos están hechas de
+plata.</item>
+        <item>Naciste con 300 huesos, pero en la edad adulta tendrás solo
+206.</item>
+        <item>Toma unos 8 minutos en llegar la luz del sol a la tierra.</item>
+        <item>Algunas plantas de bambu pueden crecer hasta un metro al
+día.</item>
+        <item>El estado de Florida es más grande que Inglaterra.</item>
+
+    </string-array>
+
+
+
+<string-array name="colors">
+    <item>#39add1</item>
+    <item>#3079ab</item>
+    <item>#7d669e</item>
+    <item>#f092b0</item>
+    <item>#c25975</item>
+    <item>#e15258</item>
+    <item>#f9845b</item>
+    <item>#e0ab18</item>
+    <item>#51b46d</item>
+
+
+
+</string-array>
+
+
+</resources>

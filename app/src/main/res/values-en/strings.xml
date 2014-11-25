@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fun Facts</string>
+    <string name="hello_world">Did you know that..</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="array">
+    <item>Ants stretch when they wake up in the morning. </item>
+    <item>Ostriches can run faster than horses. </item>
+    <item>The gold medals from the Olympic Games are made of
+silver</item>
+        <item>You were born with 300 bones, but by adulthood you will have only
+206.</item>
+        <item>Some bamboo plants can grow up to one meter
+day.</item>
+        <item>The state of Florida is bigger than England.</item>
+
+    </string-array>
+
+
+
+<string-array name="colors">
+    <item>#39add1</item>
+    <item>#3079ab</item>
+    <item>#7d669e</item>
+    <item>#f092b0</item>
+    <item>#c25975</item>
+    <item>#e15258</item>
+    <item>#f9845b</item>
+    <item>#e0ab18</item>
+    <item>#51b46d</item>
+
+
+
+</string-array>
+
+
+</resources>
